@@ -1,6 +1,6 @@
 # react-native-webview-example
 
-[React Native](https://reactnative.dev/) [WebView](https://github.com/react-native-webview/react-native-webview) that renders https://example.com/.
+[React Native](https://reactnative.dev/) [WebView](https://github.com/react-native-webview/react-native-webview) that renders https://example.com/. See [blog post](https://b.remarkabl.org/3zLhLvA).
 
 ## Prerequisites
 
